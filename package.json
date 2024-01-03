@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "loadash": "^1.0.0"
+  },
+  "name": "nodejs",
+  "description": "I have make this repo to paractice NodeJs concepts. If you're a student or working professional who want to learn or revise NodeJs concepts.You're at right place. Feel Free to collab with me for Projects",
+  "version": "1.0.0",
+  "main": "1-Hello.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhammadfahid12/NodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muhammadfahid12/NodeJs/issues"
+  },
+  "homepage": "https://github.com/Muhammadfahid12/NodeJs#readme"
+}
